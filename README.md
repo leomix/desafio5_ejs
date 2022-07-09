@@ -1,2 +1,2 @@
-# desafio5_ejs
-Este es el repositorio del desafio5 usando ejs
+# desafio5 usando Handlebars
+este es el repositorio para el desafio 5 usando handlebars
